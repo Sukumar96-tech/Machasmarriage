@@ -34,7 +34,7 @@ background: orange;
 
 <h2>MACHA'S WEDDING INVITATION</h
 
-<p> I am heartly inviting you on the occasion of my sister marriage 
+<p> I am heartly inviting you on the occasion of my sister marriage </p>
 
 <h5>Date: 06-03-2025</h5>
 
