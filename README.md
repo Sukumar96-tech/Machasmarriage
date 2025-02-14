@@ -40,6 +40,6 @@ background: orange;
 
 <h5>Day: Thrusday </h5>
 
-<h5>Venue: Margam function hall sit
+<h5>Venue: Margam function hall sircilla</h5>
 
 </button>
